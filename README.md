@@ -27,8 +27,8 @@ Lorem ipsum.
 - (todo later) Travis-CI
 
 **Premium**
-- (todo) FontAwesome
-- (todo) GitHub
+- (todo later) FontAwesome
+- (todo later) GitHub
 
 **Paid License**
 - WordPress Templates
