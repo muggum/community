@@ -1,6 +1,21 @@
 # MugguM Community
 *Bienvenue chez MugguM !*
 
+Retrouvez-nous sur notre site web : https://muggum.fr
+
+## Nos Services
+
+**Création Blog**
+- [x] CMS - WordPress
+- [x] Maintenance - JetPack
+
+**Création Site Vitrine**
+- [x] Django - Dev Pro
+- [ ] UI/UX - Designer Pro
+
+**Création Site E-Commerce**
+- [x] CMS - WooCommerce
+
 ## Nos Valeurs
 
 **Valeur 1 :**
@@ -39,6 +54,8 @@ Lorem ipsum.
 
 - Arthur @GoswaTech
 - Kelly @sopequenotech
+
+*Nous recherchons un UI/UX designer pour travailler sur les sites en Django.*
 
 ## WebSite
 *https://muggum.fr/*
