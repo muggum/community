@@ -36,9 +36,11 @@ Lorem ipsum.
 **Free**
 - GitHub
 - Adobe Color
+- Cookiebot
 - (todo) DigitalOcean
 - (todo) Heroku
 - (todo) Sentry
+- (todo) Drift
 - (todo later) Travis-CI
 - (todo later) Unity3D
 
@@ -56,6 +58,3 @@ Lorem ipsum.
 - Kelly @sopequenotech
 
 *Nous recherchons un UI/UX designer pour travailler sur les sites en Django.*
-
-## WebSite
-*https://muggum.fr/*
