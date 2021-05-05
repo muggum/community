@@ -1,8 +1,7 @@
 # MugguM Community
 *Bienvenue chez MugguM !*
 
-# Création Digitale
-# WebDesign & Marketing
+# Création Digitale, WebDesign & Marketing
 
 *MugguM est une équipe de développeurs et de créateurs passionnés et motivés par les projets les plus prometteurs.*
 
@@ -18,8 +17,12 @@ du monde en une seule publication comme nous pouvons rester anonyme en partagean
 des milliers de photos sublimes.
 Dites-nous ce que vos voulez,on vous conseillera au mieux.
 
-*Vous avez besoin d'un serrvice ?*
+-------
+
+*Vous avez besoin d'un service ?*
 ## On vous propose ça
+
+---
 
 **Création Single Page**
 
@@ -28,103 +31,108 @@ Dites-nous ce que vos voulez,on vous conseillera au mieux.
 - VItrine E-Commerce Minimaliste *(512€)*
 - Projet Artistique *contactez-nous*
 
+---
+
 **Créations Site Vitrine**
 *à partir de 1024€*
 
 Design :
 - Choix du thème
-- - Choisir à partir de templates **(base)**
-- - Création pur et simple de la charte graphique *(option)*
+  - Choisir à partir de templates **(base)**
+  - Création pur et simple de la charte graphique *(option)*
 
 Développement :
 - 7 pages Web dont 4 indispensables :
-- - Page mentions légales **(obligatoire)**
-- - Page de Contact **(base)**
-- - Page Principale (page d'accueil, home, api...) *(option)*
-- - Description des offres (portfolio, services, tarifs...) *(option)*
+  - Page mentions légales **(obligatoire)**
+  - Page de Contact **(base)**
+  - Page Principale (page d'accueil, home, api...) *(option)*
+  - Description des offres (portfolio, services, tarifs...) *(option)*
 - Mise en production
-- - Choix et configuration du nom de domaine *(ex : monsite.fr)*
-- - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
+  - Choix et configuration du nom de domaine *(ex : monsite.fr)*
+ - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
 - Maintenance *(offert)*
-- - Suivi et correction des erreurs critiques pendant 1 an
-- - Retouches mineurs sur le site en lui-même pendant 1 mois
-- - Recherche et correction des erreurs sur demande pendant 3 mois
+  - Suivi et correction des erreurs critiques pendant 1 an
+  - Retouches mineurs sur le site en lui-même pendant 1 mois
+  - Recherche et correction des erreurs sur demande pendant 3 mois
 
 Référencement :
 - SEO
-- - Optimisation du référencement de Google **(base)**
-- - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
-- - Rédaction du titre *(option)*
+  - Optimisation du référencement de Google **(base)**
+  - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
+  - Rédaction du titre *(option)*
 - Serveurs DNS
-- - Migration vers Cloudflare **(base)**
-- - Optimisation des Images *(option)*
+  - Migration vers Cloudflare **(base)**
+  - Optimisation des Images *(option)*
+
+---
 
 **Création Blog**
 *à partir de 1618€*
 
 Design :
 - Choix du thème
-- - Choisir à partir de templates **(base)**
-- - Création pur et simple de la charte graphique *(option)*
+  - Choisir à partir de templates **(base)**
+  - Création pur et simple de la charte graphique *(option)*
 
 Développement :
 - 7 pages Web max :
-- - Page mentions légales **(obligatoire)**
-- - Pages : liste des articles, détails de article, contact **(base)**
-- - Page principale (page d'accueil, home, api...) *(option)*
-- - Page de description des offres (portfolio, services, tarifs...) *(option)*
+  - Page mentions légales **(obligatoire)**
+  - Pages : liste des articles, détails de article, contact **(base)**
+  - Page principale (page d'accueil, home, api...) *(option)*
+  - Page de description des offres (portfolio, services, tarifs...) *(option)*
 - Mise en production
-- - Choix et configuration du nom de domaine *(ex : monsite.fr)*
-- - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
+  - Choix et configuration du nom de domaine *(ex : monsite.fr)*
+  - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
 - Maintenance *(offert)*
-- - Suivi et correction des erreurs critiques pendant 3 mois
-- - Retouches mineurs sur le site en lui-même pendant 1 mois
-- - Recherche et correction des erreurs sur demande pendant 3 mois
+  - Suivi et correction des erreurs critiques pendant 3 mois
+  - Retouches mineurs sur le site en lui-même pendant 1 mois
+  - Recherche et correction des erreurs sur demande pendant 3 mois
 
 Référencement :
 - SEO
-- - Optimisation du référencement de Google **(base)**
-- - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
-- - Optimisation automatique des résultats pour chaque article *(option)*
-- - Rédaction du titre *(option)*
+  - Optimisation du référencement de Google **(base)**
+  - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
+  - Optimisation automatique des résultats pour chaque article *(option)*
+  - Rédaction du titre *(option)*
 - Serveurs DNS
-- - Migration vers Cloudflare **(base)**
-- - Optimisation des Images *(option)*
+  - Migration vers Cloudflare **(base)**
+  - Optimisation des Images *(option)*
+
+---
 
 **Création site E-Commerce**
 *à partir de 3141€*
 
 Design :
 - Choix du thème
-- - Choisir à partir de templates **(base)**
-- - Création pur et simple de la charte graphique *(option)*
+  - Choisir à partir de templates **(base)**
+  - Création pur et simple de la charte graphique *(option)*
 
 Développement :
 - 7 pages Web max :
-- - Page mentions légales **(obligatoire)**
-- - Pages : liste des produits, détails du produit, panier, page d'achat sécurisé, contact **(base)**
-- - Page principale (page d'accueil, home, api...) *(option)*
-- - Page de description des offres (portfolio, services, tarifs...) *(option)*
+  - Page mentions légales **(obligatoire)**
+  - Pages : liste des produits, détails du produit, panier, page d'achat sécurisé, contact **(base)**
+  - Page principale (page d'accueil, home, api...) *(option)*
+  - Page de description des offres (portfolio, services, tarifs...) *(option)*
 - Mise en production
-- - Choix et configuration du nom de domaine *(ex : monsite.fr)*
-- - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
+  - Choix et configuration du nom de domaine *(ex : monsite.fr)*
+  - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
 - Maintenance *(offert)*
-- - Suivi et correction des erreurs critiques pendant 3 mois
-- - Retouches mineurs sur le site en lui-même pendant 1 mois
-- - Recherche et correction des erreurs sur demande pendant 3 mois
+  - Suivi et correction des erreurs critiques pendant 3 mois
+  - Retouches mineurs sur le site en lui-même pendant 1 mois
+  - Recherche et correction des erreurs sur demande pendant 3 mois
 
 Référencement :
 - SEO
-- - Optimisation du référencement de Google **(base)**
-- - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
-- - Optimisation automatique des résultats pour chaque produit *(option)*
-- - Rédaction du titre *(option)*
+  - Optimisation du référencement de Google **(base)**
+  - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
+  - Optimisation automatique des résultats pour chaque produit *(option)*
+  - Rédaction du titre *(option)*
 - Serveurs DNS
-- - Migration vers Cloudflare **(base)**
-- - Optimisation des Images *(option)*
+  - Migration vers Cloudflare **(base)**
+  - Optimisation des Images *(option)*
 
-## Pour un futur
-## Plus sain
+## Pour un futur plus sain
 
 Nous nous réservons le droit de déclirer certaines demandes
 si nous jugeons l'acivité de l'entreprise nuisible au bon
@@ -144,8 +152,7 @@ L'arbre pousse, le soleil brille, il ne reste plus qu'à attendre les fruits !*
 - Arthur @GoswaTech
 - Kelly @sopequenotech
 
-## Nous cherchons
-## Quelqu'un
+## Nous cherchons quelqu'un
 
 Nous cherchons fréquemment des personnes de talents pour des
 étapes importantes de notre processus de création et
