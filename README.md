@@ -1,8 +1,8 @@
 #MugguM Community
 *Bienvenue chez MugguM !*
 
-#Création Digitale
-#WebDesign & Marketing
+# Création Digitale
+# WebDesign & Marketing
 
 *MugguM est une équipe de développeurs et de créateurs passionnés et motivés par les projets les plus prometteurs.*
 
@@ -123,8 +123,8 @@ Référencement :
 - - Migration vers Cloudflare **(base)**
 - - Optimisation des Images *(option)*
 
-##Pour un futur
-##Plus sain
+## Pour un futur
+## Plus sain
 
 Nous nous réservons le droit de déclirer certaines demandes
 si nous jugeons l'acivité de l'entreprise nuisible au bon
@@ -144,8 +144,8 @@ L'arbre pousse, le soleil brille, il ne reste plus qu'à attendre les fruits !*
 - Arthur @GoswaTech
 - Kelly @sopequenotech
 
-##Nous cherchons
-##Quelqu'un
+## Nous cherchons
+## Quelqu'un
 
 Nous cherchons fréquemment des personnes de talents pour des
 étapes importantes de notre processus de création et
