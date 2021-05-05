@@ -1,4 +1,4 @@
-#MugguM Community
+# MugguM Community
 *Bienvenue chez MugguM !*
 
 # Création Digitale
