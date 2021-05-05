@@ -1,84 +1,183 @@
- MugguM Community
+#MugguM Community
 *Bienvenue chez MugguM !*
+
+#Création Digitale
+#WebDesign & Marketing
+
+*MugguM est une équipe de développeurs et de créateurs passionnés et motivés par les projets les plus prometteurs.*
 
 Retrouvez-nous sur notre site web : https://muggum.fr
 
-## Nos Services
+*On parle concret !*
+## Exposition Digitale
+
+Voilà que les temps changent et que le digital devient omniprésent dans notre société.
+Un petit signal qui vous fait voir des formes sur un écran. Une attention captée par
+une source d'énergie intélligente. Nous pouvons faire parler de nous à l'autre bout
+du monde en une seule publication comme nous pouvons rester anonyme en partageant
+des milliers de photos sublimes.
+Dites-nous ce que vos voulez,on vous conseillera au mieux.
+
+*Vous avez besoin d'un serrvice ?*
+## On vous propose ça
+
+**Création Single Page**
+
+- CV en ligne *(70€)*
+- Vitrine Minimaliste *(90€)*
+- VItrine E-Commerce Minimaliste *(512€)*
+- Projet Artistique *contactez-nous*
+
+**Créations Site Vitrine**
+*à partir de 1024€*
+
+Design :
+- Choix du thème
+- - Choisir à partir de templates **(base)**
+- - Création pur et simple de la charte graphique *(option)*
+
+Développement :
+- 7 pages Web dont 4 indispensables :
+- - Page mentions légales **(obligatoire)**
+- - Page de Contact **(base)**
+- - Page Principale (page d'accueil, home, api...) *(option)*
+- - Description des offres (portfolio, services, tarifs...) *(option)*
+- Mise en production
+- - Choix et configuration du nom de domaine *(ex : monsite.fr)*
+- - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
+- Maintenance *(offert)*
+- - Suivi et correction des erreurs critiques pendant 1 an
+- - Retouches mineurs sur le site en lui-même pendant 1 mois
+- - Recherche et correction des erreurs sur demande pendant 3 mois
+
+Référencement :
+- SEO
+- - Optimisation du référencement de Google **(base)**
+- - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
+- - Rédaction du titre *(option)*
+- Serveurs DNS
+- - Migration vers Cloudflare **(base)**
+- - Optimisation des Images *(option)*
 
 **Création Blog**
-- [x] CMS - WordPress
-- [x] Maintenance - JetPack
+*à partir de 1618€*
 
-**Création Site Vitrine**
-- [x] Django - Dev Pro
-- [ ] UI/UX - Designer Pro
+Design :
+- Choix du thème
+- - Choisir à partir de templates **(base)**
+- - Création pur et simple de la charte graphique *(option)*
 
-**Création Site E-Commerce**
-- [x] CMS - WooCommerce
+Développement :
+- 7 pages Web max :
+- - Page mentions légales **(obligatoire)**
+- - Pages : liste des articles, détails de article, contact **(base)**
+- - Page principale (page d'accueil, home, api...) *(option)*
+- - Page de description des offres (portfolio, services, tarifs...) *(option)*
+- Mise en production
+- - Choix et configuration du nom de domaine *(ex : monsite.fr)*
+- - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
+- Maintenance *(offert)*
+- - Suivi et correction des erreurs critiques pendant 3 mois
+- - Retouches mineurs sur le site en lui-même pendant 1 mois
+- - Recherche et correction des erreurs sur demande pendant 3 mois
 
-## Nos Valeurs
+Référencement :
+- SEO
+- - Optimisation du référencement de Google **(base)**
+- - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
+- - Optimisation automatique des résultats pour chaque article *(option)*
+- - Rédaction du titre *(option)*
+- Serveurs DNS
+- - Migration vers Cloudflare **(base)**
+- - Optimisation des Images *(option)*
 
-**Valeur 1 :**
-Lorem ipsum.
+**Création site E-Commerce**
+*à partir de 3141€*
 
-**Valeur 2 :**
-Lorem ipsum.
+Design :
+- Choix du thème
+- - Choisir à partir de templates **(base)**
+- - Création pur et simple de la charte graphique *(option)*
 
-**Valeur 3 :**
-Lorem ipsum.
+Développement :
+- 7 pages Web max :
+- - Page mentions légales **(obligatoire)**
+- - Pages : liste des produits, détails du produit, panier, page d'achat sécurisé, contact **(base)**
+- - Page principale (page d'accueil, home, api...) *(option)*
+- - Page de description des offres (portfolio, services, tarifs...) *(option)*
+- Mise en production
+- - Choix et configuration du nom de domaine *(ex : monsite.fr)*
+- - Choix et configuration du serveur *(nous n'assurons pas l'hébergement du site mais nous vous accompagnons dans ces démarches)*
+- Maintenance *(offert)*
+- - Suivi et correction des erreurs critiques pendant 3 mois
+- - Retouches mineurs sur le site en lui-même pendant 1 mois
+- - Recherche et correction des erreurs sur demande pendant 3 mois
 
-## Nos Technologies
-*La maîtrise est importante, l'organisation est décisive.*
+Référencement :
+- SEO
+- - Optimisation du référencement de Google **(base)**
+- - Optimisation des miniatures pour facebook, twitter, whatsapp... *(option)*
+- - Optimisation automatique des résultats pour chaque produit *(option)*
+- - Rédaction du titre *(option)*
+- Serveurs DNS
+- - Migration vers Cloudflare **(base)**
+- - Optimisation des Images *(option)*
 
-**Anonymous**
-- BootStrap
-  - description : Bootstrap est une collection d'outils utiles à la création du design
-    (graphisme, animation et interactions avec la page dans le navigateur, etc.)
-    de sites et d'applications web. C'est un ensemble qui contient des codes HTML
-    et CSS, des formulaires, boutons, outils de navigation et autres éléments
-    interactifs, ainsi que des extensions JavaScript en option. C'est l'un des
-    projets les plus populaires sur la plate-forme de gestion de développement
-    GitHub.
-  - link : [wikipedia](https://fr.wikipedia.org/wiki/Bootstrap_%28framework%29)
+##Pour un futur
+##Plus sain
 
-**Free**
-- GitHub
-  - description : GitHub est un service web d'hébergement et de gestion de développement de
-    logiciels, utilisant le logiciel de gestion de versions Git.
-  - link : [wikipedia](https://fr.wikipedia.org/wiki/GitHub)
-- Adobe Color
-  - description : Créez des palettes de couleurs avec la roue chromatique ou une image ou
-    parcourez des milliers de combinaisons de couleurs provenant de la communauté
-    Adobe Color.
-  - link : [web application](https://color.adobe.com/)
-- Cookiebot
-  - Cookiebot is a cookie and online tracking consent solution that complies with
-    the consent and information requirements of the EU ePrivacy Directive
-    2009/136/EC and the General Data Protection Regulation (GDPR).
-  - link [official website](https://www.cookiebot.com/)
-- (todo) DigitalOcean
-- (todo) Heroku
-- (todo) Sentry
-- (todo) Drift
-- (todo later) Travis-CI
-- (todo later) Unity3D
+Nous nous réservons le droit de déclirer certaines demandes
+si nous jugeons l'acivité de l'entreprise nuisible au bon
+développement et à la bonne santé de la planète.
 
-**Premium**
-- (todo later) FontAwesome
-- (todo later) GitHub
-
-**Paid License**
-- WordPress Templates
-  - Templates :
-      Name
-      - description : Description
-      - link : link
-
-
-## Notre Team
 *Seul on va vite, ensemble on va plus loin.*
+## L'Ekip
+
+Âgés de 20 à 30 ans, notre équipe se compose de développeurs
+et designers passionnés. Afin de donner vie à vos projets
+les plus ambitieux, ils ont décidés de se réunir ici.
+
+### MugguM Core
+*Le noyau MugguM est le point de départ de notre aventure.
+L'arbre pousse, le soleil brille, il ne reste plus qu'à attendre les fruits !*
 
 - Arthur @GoswaTech
 - Kelly @sopequenotech
 
-*Nous recherchons un UI/UX designer pour travailler sur les sites en Django.*
+##Nous cherchons
+##Quelqu'un
+
+Nous cherchons fréquemment des personnes de talents pour des
+étapes importantes de notre processus de création et
+de mise en production.
+
+*contactez-nous ;)*
+
+## Contacts
+
+- Mail : contact@muggum.fr
+- Instagram : muggum_web
+- Facebook : muggum_web
+
+### Contacts du Réseau
+
+Instagram :
+- gsw_ww "La photo, les formes et les couleurs des fleurs."
+
+### Dans notre Univers
+
+Galaxie du Thé :
+- CookTea *(cerca trova)*
+- ArTeaMuzyk *(comming soon)*
+
+Galaxie Mug
+- MugguM Design `muggum.fr`
+Galaxie Gum
+- MugguM Dev `muggum.fr`
+
+Singularité MugguM
+- FlashTea *(comming soon)*
+
+Galaxie XYZ :
+- arthurneyer.xyz
+- kellysossoe.xyz
