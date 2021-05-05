@@ -172,6 +172,7 @@ Galaxie du Thé :
 
 Galaxie Mug
 - MugguM Design `muggum.fr`
+
 Galaxie Gum
 - MugguM Dev `muggum.fr`
 
