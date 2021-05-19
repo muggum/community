@@ -1,0 +1,142 @@
+@import "colors"
+@import "univers_colors"
+@import "univers_btn"
+
+
+body
+  background-color: $color_4_alpha_42 !important
+
+.uniVers_parallax
+  position: relative
+  width: 100%
+  min-height: 100vh
+
+  display: flex
+  justify-content: center
+  align-items: center
+
+  overflow-x: visible
+  overflow-y: visible
+
+  box-shadow: 0 0 7px $black
+
+  & .overlay
+    position: absolute
+    width: 100%
+    height: 100%
+    background-color: $color_5_alpha_42
+
+    & h1
+      color: $color_4
+      font-weight: 700
+      font-size: 42px
+      text-shadow: 0 0 7px $black
+      text-transform: uppercase
+
+    & h2
+      color: $color_4
+      font-weight: 700
+      font-size: 18px
+      text-shadow: 0 0 7px $black
+
+.uniVers-contact-solaris
+  position: relative
+
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-around
+  align-items: center
+
+  width: 100%
+  height: auto
+  padding: 21px 7px
+
+  border-radius: 21px
+
+  overflow: hidden
+
+  & .background
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+
+    overflow: hidden
+
+    & img
+      width: 100%
+      height: 100%
+      object-fit: cover
+      object-position: center
+      opacity: 0.618
+
+  & .terra
+    position: relative
+
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+
+    max-height: 333px
+    height: auto
+    width: 222px
+
+    padding: 7px
+    border-radius: 7px
+
+    overflow: hidden
+
+    & .terra-name
+      width: 100%
+
+    & .terra-img
+      width: 100%
+      max-width: 162px
+      max-height: 162px
+
+      margin: 7px
+      padding: 3px
+      border-radius: 111px
+
+      background-color: $color_4_alpha_42
+
+      overflow: hidden
+
+    & .terra-link
+      width: 100%
+
+      padding: 7px
+      border-radius: 3px
+
+      text-align: center
+      text-transform: uppercase
+      font-weight: 700
+      color: $black
+
+      background-color: $color_5
+      transition: 0.618s
+      &:hover
+        background-color: $color_4
+
+    & .terra-link.terra-img
+      width: 100%
+      width: 162px
+      height: 162px
+
+      padding: 7px
+      border-radius: 111px
+
+      background-color: $color_2_alpha_42
+      transition: 0.618s
+      &:hover
+        background-color: $color_3
+        transform: rotate(360deg)
+
+
+.uniVers_quote
+  width: 100%
+
+.uniVers_portfolio
+  width: 333%

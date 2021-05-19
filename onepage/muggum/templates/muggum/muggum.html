@@ -1,0 +1,28 @@
+{% extends "singularity/base.html" %}
+
+{% load static %}
+
+{% block singularity %}{% endblock singularity %}
+
+{% block stylesheets %}
+
+  <!-- Singularity Stylesheets -->
+  {{ block.super }}
+
+  <!-- MugguM Stylesheets -->
+  <link rel="stylesheet" href="{% static 'muggum/css/master.css' %}">
+
+{% endblock stylesheets %}
+
+{% block content %}
+
+  {% include "muggum/components/navbar.html" %}
+
+  {% include "muggum/sections/header.html" %}
+  {% include "muggum/sections/history.html" %}
+  {% include "muggum/sections/services.html" %}
+  {% include "muggum/sections/contact.html" %}
+
+  {% include "muggum/components/footer.html" %}
+
+{% endblock content %}
