@@ -1,1 +1,15 @@
-<h1>Header</h1>
+{% load static %}
+
+<header class="row justify-content-center align-items-center g-0 p-2">
+  <div class="col-12 col-md-6 d-flex flex-column justify-content-center align-items-center title">
+    <h1 class="display-1">MugguM</h1>
+    <h2>L'Ekip Web prête à tout !</h2>
+  </div>
+  <div class="d-none d-md-flex col-4"></div>
+  <div class="col-12 col-md-7 offset-md-4 d-flex justify-content-center align-items-center background">
+    <div class="header-image">
+      <img class="img-fluid" src="{% static "muggum/img/header-image.jpg" %}" alt="MugguM">
+    </div>
+    <i class="filter filter-dark"></i>
+  </div>
+</header>

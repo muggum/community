@@ -1,1 +1,80 @@
 @import "colors"
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap')
+
+*
+    font-family: 'Dosis', sans-serif
+
+body
+  margin: 0
+  padding-top: 24px
+
+  background-color: $muggum_black
+  color: white
+
+
+// Header
+// ----------------
+// |     ---img-  |
+// |     |     |  |
+// |   MuuM    |  |
+// |    MM     |
+// |     |     |  |
+// |     -------  |
+// |              |
+// ----------------
+
+header
+  position: relative
+
+  min-height: 70vh
+  height: auto
+  width: 100%
+
+  display: flex
+  overflow: hidden
+
+  & .title
+    z-index: 999
+    position: relative
+    max-height: 255px
+
+    & h1, h2
+      color: $muggum_green_light
+      text-shadow: 0 0 12px $muggum_black
+
+    & h1
+      font-weight: 700
+      text-transform: uppercase
+
+    & h2
+      padding: 12px 32px
+      border-radius: 9px
+      background-color: $muggum_green_light_alpha_88
+
+      font-weight: 300
+      text-transform: uppercase
+      color: $muggum_black
+
+  & .background
+    z-index: 99
+    position: absolute
+    top: 0
+    left: 0
+
+    width: 100%
+    height: 100%
+
+    & .header-image
+      width: 100%
+      height: 100%
+
+      display: flex
+      justify-content: center
+      align-items: center
+
+      overflow: hidden
+
+      & img
+        width: 100%
