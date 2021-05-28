@@ -86,14 +86,26 @@ header
 
 // Services
 .services-card
+  max-height: 420px
+  height: 420px
+  & .service-list
+    overflow-y: auto
+
+
+// Services & Ekip
+.services-card, .ekip-card
   background-color: transparent !important
   border: 3px solid $muggum_green_light
   box-shadow: 0 0 24px $muggum_green_light
 
-  & .card-service
+  & .card-service, .card-mug
     height: 162px
     background-color: $muggum_violet_light_alpha_42
-    box-shadow: 0 0 12px $muggum_violet_light
+    box-shadow: 0 0 9px $muggum_violet_light
+
+    display: flex
+    justify-content: center
+    align-items: center
 
     transition-duration: 0.21s
     &:hover
